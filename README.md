@@ -14,4 +14,16 @@
 
 ## Tailwind & JS
 
-[Websites](https://github.com/pavilionjeromeuses/TailwindJSDesigns) [HTML Emails](https://github.com/pavilionjeromeuses/HTMLEmailTailwindJSDesigns) [Games](https://github.com/pavilionjeromeuses/TailwindJSGames) [Weird Web Tools](https://github.com/pavilionjeromeuses/WeirdWebToolsTailwindJS)
+[Websites](https://github.com/pavilionjeromeuses/TailwindJSDesigns) [HTML Emails](https://github.com/pavilionjeromeuses/HTMLEmailTailwindJSDesigns) [Weird Web Tools](https://github.com/pavilionjeromeuses/WeirdWebToolsTailwindJS)
+
+### Game Prototypes
+
+[Flash](https://github.com/pavilionjeromeuses/TailwindJSGames)
+
+## Short / Long Form Video Content Creation
+
+[AI Generated](https://www.youtube.com/@octobersandwich6209)
+[Local Entertainment](https://www.youtube.com/@emorejrecords4202)
+[Music Production](https://www.youtube.com/@aestheticpark147)
+[Business & Education](https://www.youtube.com/@JetStreamPX)
+[Religion & Politics](https://www.youtube.com/@TokioSOF)
