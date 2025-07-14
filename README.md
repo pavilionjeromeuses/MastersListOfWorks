@@ -4,6 +4,14 @@
 
 [Behance](https://www.behance.net/jeromiep)
 
+## Short / Long Form Video Content Creation
+
+[AI Generated](https://www.youtube.com/@octobersandwich6209)
+[Local Entertainment](https://www.youtube.com/@emorejrecords4202)
+[Music Production](https://www.youtube.com/@aestheticpark147)
+[Business & Education](https://www.youtube.com/@JetStreamPX)
+[Religion & Politics](https://www.youtube.com/@TokioSOF)
+
 ## Writing
 
 [Pool Skimmer](https://poolskimmer.com/)
@@ -14,24 +22,24 @@
 
 ## jQuery
 
-[Front End Designs](https://github.com/pavilionjeromeuses/jQueryFrontEndDesigns)
+[Front End Designs](https://www.facebook.com/media/set/?set=a.718338047617984&type=3)
 
 ## Bootstrap Mobile Ready Designs
 
-[AboutUs](https://github.com/pavilionjeromeuses/AboutUsBootstrapDesigns) [Auto](https://github.com/pavilionjeromeuses/AutoBootstrapDesigns) [BabyShower](https://github.com/pavilionjeromeuses/BabyShowerBootstrapDesigns) [Elegant](https://github.com/pavilionjeromeuses/ElegantBootstrapDesigns) [EnrollToday](https://github.com/pavilionjeromeuses/EnrollTodayBootstrapDesigns) [FoodMenuEcommerceOrdering](https://github.com/pavilionjeromeuses/FoodMenuEcommerceOrderingBootstrapDesigns) [OnlineBusinessCard](https://github.com/pavilionjeromeuses/OnlineBusinessCardBootstrapDesigns) [OptIn](https://github.com/pavilionjeromeuses/OptInBootstrapDesigns) [RealEstate](https://github.com/pavilionjeromeuses/RealEstateBootstrapDesigns) [RestaurantAndHotels](https://github.com/pavilionjeromeuses/RestaurantAndHotelsBootstrapDesigns) [Wedding](https://github.com/pavilionjeromeuses/WeddingBootstrapDesigns)
+[Front End Designs](https://www.facebook.com/media/set/?set=a.718349570950165&type=3)
 
 ## Tailwind & JS
 
-[Websites](https://github.com/pavilionjeromeuses/TailwindJSDesigns) [HTML Emails](https://github.com/pavilionjeromeuses/HTMLEmailTailwindJSDesigns) [Weird Web Tools](https://github.com/pavilionjeromeuses/WeirdWebToolsTailwindJS)
+[Websites](https://www.facebook.com/media/set/?set=a.718356540949468&type=3) [HTML Emails](https://www.facebook.com/media/set/?set=a.718363630948759&type=3) [Weird Web Tools](https://www.facebook.com/media/set/?set=a.718368174281638&type=3)
 
 ### Game Prototypes
 
-[Flash](https://github.com/pavilionjeromeuses/TailwindJSGames)
+[Flash](https://www.facebook.com/media/set/?set=a.718378210947301&type=3) [Board Games](https://www.facebook.com/media/set/?set=a.718971944221261&type=3) [Card Games](https://www.facebook.com/media/set/?set=a.718976127554176&type=3) [Educational Kids Games](https://www.facebook.com/media/set/?set=a.718979807553808&type=3) [Puzzle](https://www.facebook.com/media/set/?set=a.718983414220114&type=3)
 
-## Short / Long Form Video Content Creation
+## Next.js & Tailwind
 
-[AI Generated](https://www.youtube.com/@octobersandwich6209)
-[Local Entertainment](https://www.youtube.com/@emorejrecords4202)
-[Music Production](https://www.youtube.com/@aestheticpark147)
-[Business & Education](https://www.youtube.com/@JetStreamPX)
-[Religion & Politics](https://www.youtube.com/@TokioSOF)
+[Japanese Clustered Website Designs](https://www.facebook.com/media/set/?set=a.718986150886507&type=3) [Chinese Casinos](https://www.facebook.com/media/set/?set=a.718987804219675&type=3) [DDR UIs](https://www.facebook.com/media/set/?set=a.718989157552873&type=3)
+
+## Artificial Intelligence
+
+[Prompting Art Styles](https://www.facebook.com/media/set/?set=a.718335707618218&type=3)
