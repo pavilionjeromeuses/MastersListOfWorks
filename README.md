@@ -1,5 +1,13 @@
 # Master's List of Works
 
+## Design
+
+[Behance](https://www.behance.net/jeromiep)
+
+## Writing
+
+[Pool Skimmer]([https://www.behance.net/jeromiep](https://poolskimmer.com/))
+
 ## FreeCodeCamp Works
 
 [buildasurveyform](https://github.com/pavilionjeromeuses/buildasurveyform) [buildatributepage](https://github.com/pavilionjeromeuses/buildatributepage) [buildatechnicaldocumentationpage](https://github.com/pavilionjeromeuses/buildatechnicaldocumentationpage) [buildaproductlandingpage](https://github.com/pavilionjeromeuses/buildaproductlandingpage) [buildapersonalportfoliowebpage](https://github.com/pavilionjeromeuses/buildapersonalportfoliowebpage) [buildapalindromechecker](https://github.com/pavilionjeromeuses/buildapalindromechecker) [buildaromannumeralconverter](https://github.com/pavilionjeromeuses/buildaromannumeralconverter) [buildatelephonenumbervalidator](https://github.com/pavilionjeromeuses/buildatelephonenumbervalidator) [buildacashregister](https://github.com/pavilionjeromeuses/buildacashregister) [buildapokemonsearchapp](https://github.com/pavilionjeromeuses/buildapokemonsearchapp) [buildarandomquotemachine](https://github.com/pavilionjeromeuses/buildarandomquotemachine) [buildamarkdownpreviewer](https://github.com/pavilionjeromeuses/buildamarkdownpreviewer) [buildadrummachine](https://github.com/pavilionjeromeuses/buildadrummachine) [buildajavascriptcalculator](https://github.com/pavilionjeromeuses/buildajavascriptcalculator) [builda25-5clock](https://github.com/pavilionjeromeuses/builda25-5clock) [visualizedatawithabarchart](https://github.com/pavilionjeromeuses/visualizedatawithabarchart) [visualizedatawithascatterplotgraph](https://github.com/pavilionjeromeuses/visualizedatawithascatterplotgraph) [visualizedatawithaheatmap](https://github.com/pavilionjeromeuses/visualizedatawithaheatmap) [visualizedatawithachoroplethmap](https://github.com/pavilionjeromeuses/visualizedatawithachoroplethmap) [visualizedatawithatreemapdiagram](https://github.com/pavilionjeromeuses/visualizedatawithatreemapdiagram) [Scientific-Computing-with-Python-Beta-](https://github.com/pavilionjeromeuses/Scientific-Computing-with-Python-Beta-)
