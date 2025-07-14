@@ -6,7 +6,7 @@
 
 ## Writing
 
-[Pool Skimmer]([https://www.behance.net/jeromiep](https://poolskimmer.com/))
+[Pool Skimmer](https://poolskimmer.com/)
 
 ## FreeCodeCamp Works
 
