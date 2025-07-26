@@ -42,4 +42,4 @@
 
 ## Artificial Intelligence
 
-[Prompting Art Styles](https://www.facebook.com/media/set/?set=a.718335707618218&type=3)
+[Art Styles](https://www.facebook.com/media/set/?set=a.718335707618218&type=3) [LLMs Comparison](https://www.facebook.com/media/set/?vanity=100083253864386&set=a.728090633309392)
